@@ -1,12 +1,12 @@
 {
-  "author": "Rebecca Murphey <rmurphey@gmail.com> (http://rmurphey.com)",
-  "name": "js-assessment",
-  "description": "A test-driven assessment of JavaScript skills",
+  "author": "Chris Seckler <chrisseckler@gmail.com> (http://chrisseckler.com)",
+  "name": "modern-js-assessment",
+  "description": "A test-driven assessment of modern JavaScript skills",
   "version": "0.3.0",
-  "homepage": "http://rmurphey.com",
+  "homepage": "http://chrisseckler.com",
   "repository": {
     "type": "git",
-    "url": "git://github.com/rmurphey/js-assessment.git"
+    "url": "git://github.com/zeckdude/modern-js-assessment.git"
   },
   "engines": {
     "node": "0.12.x"
@@ -16,9 +16,9 @@
     "browser-sync": "^2.8.2",
     "chai": "^2.3.0",
     "expect.js": "0.1.2",
-    "jquery": "^1.11.0",
+    "jquery": "^3.4.1",
     "lodash": "^4.17.15",
-    "mocha": "^2.2.4",
+    "mocha": "^6.2.2",
     "sinon": "^1.14.1",
     "underscore": "1.8.x"
   },
@@ -29,10 +29,10 @@
     "lint-warn": "eslint tests/app app"
   },
   "bugs": {
-    "url": "https://github.com/rmurphey/js-assessment/issues"
+    "url": "https://github.com/zeckdude/modern-js-assessment/issues"
   },
   "private": true,
   "devDependencies": {
-    "eslint": "^2.8.0"
+    "eslint": "^4.18.2"
   }
 }
