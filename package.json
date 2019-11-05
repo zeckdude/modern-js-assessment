@@ -33,6 +33,6 @@
   },
   "private": true,
   "devDependencies": {
-    "eslint": "^4.18.2"
+    "eslint": "^6.6.0"
   }
 }
